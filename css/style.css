@@ -1,0 +1,269 @@
+html{
+background: url(../img/header_background.png) repeat-x;
+}
+
+body{
+width: 960px;
+margin: 0px auto;
+}
+
+div#header{
+padding: 43px 0px 30px 0px;
+color: white;
+font-family: Arial;
+font-size: 16px;
+}
+
+div#header ul{
+display: inline;
+}
+
+div#header ul li{
+margin: 0px 0px 0px  12px;
+display: inline-block;
+vertical-align: bottom;
+}
+
+div#header h1{
+font-family: Myriad Pro;
+font-size: 60px;
+color:white;
+display: inline;
+}
+
+div#header a{
+color: white;
+text-decoration: none;
+font-family: Arial;
+}
+
+div#header a:hover{
+color: #00aeef;
+font-family: Arial;
+}
+
+div#header ul li.mainLogo{
+margin: 0px;
+width: 537px;
+}
+
+/* header */
+div#feature-content{
+padding: 67px 0px 0px 0px;
+font-family: Myriad Pro;
+}
+
+div#feature-content h1{
+}
+
+div#feature-content h1.heading{
+font-size: 60px;
+font-weight: bold;
+color: #333333;
+}
+
+div#feature-content h1.subheading{
+font-size: 50px;
+color: #bbbbbb;
+}
+
+div#feature-content span.separator{
+color: #00bff3;
+}
+
+div#feature-content  p{
+padding: 36px 0px;
+border-top: 5px dotted #cccccc;
+border-bottom: 5px dotted #cccccc;
+margin: 42px 0px 0px 0px;
+
+font-size: 34px;
+color: #555555;
+}
+
+/*Services*/
+div#services{
+padding: 42px 0px 48px 0px;
+font-family: Arial;
+font-size: 14px;
+}
+
+div#services div.block{
+height: 304px;
+width: 237px;
+padding: 23px 23px;
+margin-right: 55px;
+background-color: #00aeef;
+color: white;
+float: left;
+vertical-align: top;
+}
+
+div#services div.block h3{
+padding-bottom: 24px;
+border-bottom : 2px dotted white;
+margin-bottom: 28px;
+text-align: center;
+font-family: Myriad Pro;
+font-size: 40px;
+}
+
+div#services div.block p{
+line-height: 150%;
+text-align: center;
+}
+
+div#services div.block div.button{
+padding: 12px 0px;
+border: 1px solid #15607c;
+margin-top: 32px;
+background-color: #0076a3; 
+
+text-align: center;
+font-family: Myriad Pro;
+font-size: 18px;
+}
+
+div#services div.block a{
+color: white;
+text-decoration: none;
+}
+
+div#services div.clearMargin{
+margin: 0px;
+}
+
+/*additional-info*/
+div#additional-info{
+padding: 36px 0px 32px 0px;
+border-top:5px dotted #cccccc;
+}
+
+/*projectBlock*/
+div#additional-info div.projectBlock{
+width: 430px;
+padding-left: 47px;
+border-left:5px dotted #cccccc;
+float: left;
+vertical-align: top;
+}
+
+div#additional-info div.projectBlock h3{
+font-family: Myriad Pro;
+font-size: 24px;
+color: #555555;
+margin-bottom: 23px;
+}
+
+div#additional-info div.projectBlock h4{
+font-family: Arial;
+font-size: 20px;
+color: #888888;
+}
+
+div#additional-info div.projectBlock img{
+margin: 13px 0px 20px 0px;
+border: 1px solid #cccccc;
+}
+
+div#additional-info div.projectBlock p{
+font-family: Arial;
+font-size: 14px;
+color: #555555;
+line-height: 21px;
+}
+
+div#additional-info div.projectBlock a{
+font-family: Arial;
+font-size: 14px;
+color: #00aeef;
+margin-top: 14px;
+}
+
+/*testimonialBlock*/
+div#additional-info div.testimonialBlock{
+width: 446px;
+padding-right: 30px;
+float: left;
+vertical-align: top;
+}
+
+div#additional-info div.testimonialBlock h3{
+font-family: Myriad Pro;
+font-size: 24px;
+color: #555555;
+margin-bottom: 23px;
+}
+
+div#additional-info div.testimonialBlock ul li{
+display: block;
+margin-top: 38px;
+}
+
+div#additional-info div.testimonialBlock ul li:first-child{
+margin-top: 0px;
+}
+
+
+div#additional-info div.testimonialBlock ul li img{
+border: 1px solid #cecece;
+margin-right: 25px;
+float:left;
+vertical-align: top;
+}
+
+div.testimonialBlock div.commentWrapper{
+float:right;
+vertical-align: top;
+width: 330px
+}
+
+div.testimonialBlock ul li p.comment{
+font-family: Arial;
+font-size: 14px;
+color: #555555;
+line-height: 21px;
+margin-bottom: 18px;
+}
+
+div.testimonialBlock ul li p.author{
+margin-bottom: 6px;
+font-family: Arial;
+font-size: 14px;
+font-weight: bold;
+color: #555555;
+}
+
+div.testimonialBlock ul li p.authorDetails{
+font-family: Arial;
+font-size: 14px;
+color: #555555;
+}
+
+div.testimonialBlock ul li a{
+color: #00aeef;
+text-decoration: none;
+}
+
+/*FOOTER */
+div#footer{
+padding: 18px 0px;
+border-top:5px dotted #cccccc;
+
+font-family: Arial;
+font-size: 16px;
+color: #888888;
+}
+
+
+/*MSC*/
+.clearFloat{
+clear: both;
+}
+
+html{
+zoom: 100%;
+}
+
+
+
